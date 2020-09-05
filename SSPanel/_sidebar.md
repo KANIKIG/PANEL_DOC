@@ -1,9 +1,8 @@
 * Android
 
   * [在 V2rayNG 上配置（推荐）](Android/V2RayNG.md)
-  * [在 Clash for Android 上配置](Android/ClashA.md)
+  * [在 Clash for Android 上配置](Android/Surfboard.md)
   * [在 BifrostV 上配置](Android/BifrostV.md)
-  * [在 Surfboard 上配置](Android/Surfboard.md)
 
 * iOS
 

@@ -10,7 +10,7 @@ Shadowrocket 是在 iOS 平台上的客户端软件，支持 Shadowsocks、Shado
 
 以下是各平台该应用的下载地址。
 
-- Apple iOS：[App Store](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)
+- Apple iOS：[App Store](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8) （Telegram群组免费提供美区Appstore账户进行下载，TG群入口见首页左下角）
 - ...
 
 ## 获取订阅

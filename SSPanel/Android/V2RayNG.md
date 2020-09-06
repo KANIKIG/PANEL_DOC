@@ -6,7 +6,7 @@ V2rayNG 是在 Android 平台上的客户端软件，支持 VMess, Vless 及 Sha
 
 以下是各平台该应用的下载地址。
 
-- Android：[V2rayNG](https://github.com/2dust/v2rayNG/releases)
+- Android：[V2rayNG](https://github.com/2dust/v2rayNG/releases) 或谷歌playstore下载
 - ...
 
 ## 获取订阅

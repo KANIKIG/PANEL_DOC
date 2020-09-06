@@ -21,6 +21,8 @@ ClashX 是一个拥有 GUI 界面基于 Clash 可自定义规则的 macOS 代理
 
 ## 配置 ClashX
 
+建议点击首页快速开始的一键导入clashX订阅。如导入失败再参考下述手动导入方法。
+
 打开 ClashX，此时会提示您需要安装一个小工具，点击 **安装** 随后输入 macOS 账户密码即可。
 
 ![1](https://i.loli.net/2019/02/12/5c624d9f8a0cc.png ':size=400')

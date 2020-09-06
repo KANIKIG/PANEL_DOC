@@ -21,6 +21,8 @@ Clash for Windows 是一个拥有 GUI 界面基于 Clash 可自定义规则的 W
 
 ## 配置 Clash for Windows
 
+建议点击首页快速开始中的一键导入ClashX订阅按钮，同样对win客户端有效。如一键导入无效，再参考下述方法。
+
 打开 Clash for Windows，从任务栏点击 Clash for Windows 图标以显示主页面。
 
 ![1](https://i.loli.net/2019/02/13/5c63d6ccd2460.png ':size=600')

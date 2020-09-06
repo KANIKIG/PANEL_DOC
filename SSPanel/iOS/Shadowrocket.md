@@ -40,19 +40,6 @@ Shadowrocket 是在 iOS 平台上的客户端软件，支持 Shadowsocks、Shado
 
 随后点击右上角保存，此时会自动更新获取服务器。
 
-### 分流规则
-
-在底部导航栏进入「配置」页面，点击右上角加号。
-
-在弹出的输入框中输入「<https://raw.githubusercontent.com/Hackl0us/Surge-Rule-Snippets/master/LAZY_RULES/Shadowrocket.conf>」可长按链接拷贝，并点击下载。
-
-随后点击 **远程文件** 中新增的配置文件地址，在弹出的菜单中选择第二个「使用配置」，此时 APP 会自动开始下载配置并应用配置。
-
-![4](https://i.loli.net/2019/01/13/5c3a615f60e87.png ':size=600')
-
-**回到首页**，点击进入「全局路由」将其更改为 **配置**。
-
-![5](https://i.loli.net/2019/01/13/5c3a63f4adce6.jpeg ':size=400')
 
 ## 开始使用
 

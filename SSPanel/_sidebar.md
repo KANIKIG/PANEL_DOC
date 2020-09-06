@@ -15,9 +15,9 @@
   * [在 QuantumultX 上配置](iOS/QuantumultX.md)
 
 * Windows
+  * [在 Clash for Windows 上配置（推荐）](Windows/Clash-for-Windows.md)
+  * [在 V2RayN 上配置](Windows/V2RayN.md)
 
-  * [在 V2RayN 上配置(推荐）](Windows/V2RayN.md)
-  * [在 Clash for Windows 上配置](Windows/Clash-for-Windows.md)
 
 * macOS
 

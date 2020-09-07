@@ -1,17 +1,10 @@
-## 应用概述
+## 流媒体服务简介
 
-ShadowsocksD 是在 Android 平台上的客户端软件，支持 Shadowsocks 协议。
+以NETFLIX为例，当使用非原生节点打开视频播放时，会提示“检测到您使用了代理或解锁”，导致无法正常观看。本站提供高成本的原生节点，能够播放原生内容，为影视爱好者提供畅快的体验。
 
-## 应用下载
+## 如何观看NETFLIX
 
-以下是各平台该应用的下载地址。
 
-- Android：[ShadowsocksD](https://github.com/CGDF-Github/SSD-Android/releases)
-- Android：[V2ray-plugin-Android](https://github.com/shadowsocks/v2ray-plugin-android/releases)
-- Android：[Simple-obfs-Android](https://github.com/shadowsocks/simple-obfs-android/releases)
-- ...
-
-*请注意，为了使用的便捷，请务必安装上面 3 个 APP。*
 
 ## 获取订阅
 

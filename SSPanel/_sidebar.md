@@ -1,3 +1,8 @@
+* 服务简介
+ * [套餐介绍](Android/Shadowsocks.md)
+ * [如何使用愉快使用VIP2的流媒体服务](Android/ShadowsocksD.md)
+
+
 * Android
   * [在 Clash for Android 上配置（推荐）](Android/Surfboard.md)
   * [在 V2rayNG 上配置（推荐）](Android/V2RayNG.md)
@@ -10,7 +15,7 @@
   * [在 Surge 上配置](iOS/Surge.md)
   * [在 Kitsunebi 上配置](iOS/Kitsunebi.md)
   * [在 Quantumult 上配置](iOS/Quantumult_sub.md)
-    * [导入 Quantumult 完整配置](iOS/Quantumult_conf.md)
+  * [导入 Quantumult 完整配置](iOS/Quantumult_conf.md)
   * [在 QuantumultX 上配置](iOS/QuantumultX.md)
 
 * Windows

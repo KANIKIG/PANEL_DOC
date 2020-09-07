@@ -1,34 +1,12 @@
-## 应用概述
+## 服务概述
 
-Shadowsocks 是在 Android 平台上的客户端软件，支持 Shadowsocks 协议。
+FRANXX是一家兼具经验与技术的网络服务商，为你提供优质的网络服务。
 
-## 应用下载
+## 套餐介绍
 
-以下是各平台该应用的下载地址。
+节点分为四个等级，可以在节点列表中查看。
+- VIP0: 注册即用，新用户注册赠送1G免费流量，可以体验公益节点。
+- VIP1: 数十个高质量中转加速节点，均采用高配服务器承载线路，地区丰富，高速稳定。
+- VIP2: 可用原生流媒体节点，体验原住民般的网络服务，适用于有观看NETFLIX等国际流媒体需求的影视爱好者。
+- VIP3: 企业级出国专线，享受毫秒级超低延迟的丝滑享受。
 
-- Android：[Shadowsocks](https://github.com/shadowsocks/shadowsocks-android/releases)
-- Android：[V2ray-plugin-Android](https://github.com/shadowsocks/v2ray-plugin-android/releases)
-- Android：[Simple-obfs-Android](https://github.com/shadowsocks/simple-obfs-android/releases)
-- ...
-
-*请注意，为了使用的便捷，请务必安装上面 3 个 APP。*
-
-## 获取节点
-
-点击此处回到 [用户中心](/user)，在快速使用中选择 Android 一栏，点击 SS 类型下的 **全部 URL**。
-
-![1](https://i.loli.net/2019/02/12/5c629c55314d9.png ':size=600')
-
-## 配置 Shadowsocks
-
-打开 Shadowsocks 点击左上角的加号图标，选择从剪贴板导入。
-
-![2](https://i.loli.net/2019/02/12/5c629cccb9991.png ':size=200')
-
-![3](https://i.loli.net/2019/02/12/5c629ce0c821b.png ':size=200')
-
-## 开始使用
-
-点击选择您需要的节点，随后点击下方的 小飞机图标 连接即可。
-
-如操作系统提示添加 VPN 配置，请点击 运行 并验证您的 密码、指纹等。

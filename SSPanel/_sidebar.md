@@ -1,6 +1,6 @@
 * 服务简介
  * [套餐介绍](Android/Shadowsocks.md)
- * [如何使用愉快使用VIP2的流媒体节点](Android/ShadowsocksD.md)
+ * [如何使用愉快使用VIP2的流媒体原生节点](Android/ShadowsocksD.md)
 
 
 * Android
